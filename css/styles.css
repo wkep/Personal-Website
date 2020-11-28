@@ -1,0 +1,155 @@
+a {
+    color: #5A535A;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+body {
+    color: #405143;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #577590;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #577590;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #5A535A;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    border: none;
+    border-top: 7px dotted #EAF6F6;
+    margin: 100px auto;
+    width: 4%;
+}
+
+p {
+    line-height: 2;
+}
+
+.bottom-container {
+    background-color: #fa5;
+    padding: 50px 0px 20px;
+}
+
+.bottom-cloud {
+    bottom: 300px;
+    left: 250px;
+    position: absolute;
+}
+
+.btn {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+    padding: 10px 30px;
+    background-color: #FFAA55;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.code-img {
+    float: left;
+    margin-right: 30px;
+    width: 20%;
+}
+
+.contact-message {
+    margin: 40px auto 60px;
+    width: 40%;
+}
+
+.copyright {
+    color: #faf6f6;
+    font-size: 0.75em;
+    padding: 20px 0px;
+}
+
+.footer-link {
+    display: inline-block;
+}
+
+.headshot {
+    width: 15%;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.middle-container {
+    margin: 100px 0px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.profile {
+    margin: 100px auto;
+}
+
+.programmer {
+    font-weight: normal;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.top-container {
+    background-color: #fa5;
+    padding-top: 100px;
+    position: relative;
+}
+
+.woodworking-img {
+    float: right;
+    margin-left: 30px;
+    width: 20%;
+}
